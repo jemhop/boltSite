@@ -1,0 +1,78 @@
+.centered {
+    text-align: center;
+    background-color:rgba(255, 255, 255, 0.836);
+    width: 50%;
+    margin: 0 auto;
+}
+
+.title {
+    width: 55%;
+    margin: 0px;
+}
+
+.sans {
+    margin: 0 auto;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    width:75%;
+}
+
+.audioplayer {
+    width: 25%;
+    display: flexbox;
+    float: left; 
+    margin: 0 auto;
+}
+
+.imageinaudioplayer {
+    width: 120px;
+    height: auto;
+    transform: scaleY(-1);
+}
+
+div.gifLeft {
+    max-width: 50%;
+    display: flexbox;
+    float: left; 
+    margin: 0 auto;
+}
+
+div.gifRight {
+    max-width: 50%;
+    display: flexbox;
+    float: right; 
+    margin: 0 auto;
+}
+
+.bolt-logo {
+    width: 15%;
+}
+
+h2.sansheader {
+    font-size: 1.7vw;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-decoration: underline solid;
+}
+
+h3.sansheader {
+    font-size: 1.3vw;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-decoration: underline solid;
+}
+
+ul.genericul {
+    width: 50%;
+    list-style-image: url('../media/images/exclamation_point.gif');
+    list-style-position: inside;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.next {
+    margin-top:20px;
+}
+
+html {
+    background-image: url("../media/images/background.jfif");
+    padding:0;
+    margin:0;
+}
