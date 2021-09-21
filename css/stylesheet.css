@@ -17,7 +17,6 @@
 }
 
 .audioplayer {
-    visibility: hidden;
     width: 25%;
     display: flexbox;
     float: left; 
