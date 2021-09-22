@@ -16,11 +16,24 @@
     width:75%;
 }
 
+.imageAnnotation {
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    opacity: 65%;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    width:25%;
+}
+
 .audioplayer {
     width: 25%;
     display: flexbox;
     float: left; 
     margin: 0 auto;
+}
+
+.boltPic {
+    outline: solid rgb(0, 255, 98) 4px
 }
 
 .imageinaudioplayer {
