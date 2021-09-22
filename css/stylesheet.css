@@ -38,8 +38,6 @@
 }
 
 .imageinaudioplayer {
-    width: 120px;
-    height: auto;
     transform: scaleY(-1);
 }
 
