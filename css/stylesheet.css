@@ -6,7 +6,7 @@
 }
 
 .title {
-    width: 55%;
+    width: 100%;
     margin: 0px;
 }
 
@@ -62,6 +62,17 @@ div.gifRight {
     width: 15%;
 }
 
+
+h4.sansheader {
+    font-size: 1.5vw;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin:0;
+    margin-top:20px;
+}
+
 h2.sansheader {
     font-size: 1.7vw;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
@@ -90,4 +101,10 @@ html {
     background-image: url("../media/images/background.jfif");
     padding:0;
     margin:0;
+}
+
+.counter {
+    font-size: 2vw;
+    margin: 0;
+    margin-top: 5px;
 }
